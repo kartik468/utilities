@@ -1,0 +1,4 @@
+**/node_modules/
+
+merge_pdfs/input_pdfs/**/**.pdf
+merge_pdfs/output/**/**.pdf
